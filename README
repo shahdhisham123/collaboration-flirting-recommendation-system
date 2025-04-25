@@ -66,36 +66,4 @@ Framework for Performing Collaborative Filtering. Proceedings of the
 1999 Conference on Research and Development in Information
 Retrieval. Aug. 1999.
 
-FURTHER INFORMATION ABOUT THE GROUPLENS RESEARCH PROJECT
-==============================================
-
-The GroupLens Research Project is a research group in the Department
-of Computer Science and Engineering at the University of Minnesota.
-Members of the GroupLens Research Project are involved in many
-research projects related to the fields of information filtering,
-collaborative filtering, and recommender systems. The project is lead
-by professors John Riedl and Joseph Konstan. The project began to
-explore automated collaborative filtering in 1992, but is most well
-known for its world wide trial of an automated collaborative filtering
-system for Usenet news in 1996.  The technology developed in the
-Usenet trial formed the base for the formation of Net Perceptions,
-Inc., which was founded by members of GroupLens Research. Since then
-the project has expanded its scope to research overall information
-filtering solutions, integrating in content-based methods as well as
-improving current collaborative filtering technology.
-
-Further information on the GroupLens Research project, including
-research publications, can be found at the following web site:
-        
-        http://www.grouplens.org/
-
-GroupLens Research currently operates a movie recommender based on
-collaborative filtering:
-
-        http://www.movielens.org/
-
-DETAILED DESCRIPTIONS OF DATA FILES
-==============================================
-
-
 
